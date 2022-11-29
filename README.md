@@ -53,7 +53,7 @@ new developers can use this project to get familiar with basic programmers tools
 - GitHub: [@mohisa302](https://github.com/mohisa302)
 - Twitter: [@Kholochelam](https://twitter.com/Kholochelam)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mohadese-sadeghi-692551199/)
-- 
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[will improve page elements]**
