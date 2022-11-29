@@ -27,10 +27,12 @@
 
 
 ## 🛠 Built With <a name="built-with"></a>
+### Key Features <a name="key-features"></a>
+- **[using linters]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,8 +51,8 @@ new developers can use this project to get familiar with basic programmers tools
 👤 **Author1**
 
 - GitHub: [@mohisa302](https://github.com/mohisa302)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Kholochelam](https://twitter.com/Kholochelam)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/mohadese-sadeghi-692551199/)
 - 
 ## 🔭 Future Features <a name="future-features"></a>
 
