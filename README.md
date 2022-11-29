@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://github.com/mohisa302/ReadMe/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -38,14 +38,13 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
+new developers can use this project to get familiar with basic programmers tools and templates
 
 
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+@mohisa302
 
 👤 **Author1**
 
@@ -54,8 +53,6 @@
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 - 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[will improve page elements]**
 - [ ] **[will improve styles]**
@@ -74,8 +71,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project give me star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -83,8 +78,6 @@ If you like this project give me star!
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my favorite mentor Houda Mzari
 
@@ -97,14 +90,12 @@ I would like to thank my favorite mentor Houda Mzari
 
   - [This project includes most of the tools which you are going to use for your codes]
 
-- **[Question_2]**
+- **[What is Microverse?]**
 
-  - [Answer_2]
+  - [Microverse is one of the most awesome coding school!]
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
