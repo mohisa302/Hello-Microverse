@@ -1,5 +1,4 @@
 feature-a
-# Hello Microverse
 <a name="readme-top"></a>
 <div align="center">
 
@@ -96,7 +95,7 @@ I would like to thank my favorite mentor Houda Mzari
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./https://github.com/mohisa302/Hello-Microverse/blob/feature-a/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
